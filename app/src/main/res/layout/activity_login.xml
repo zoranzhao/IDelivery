@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:layout_weight="0"
+
+    android:background="@drawable/delivery"
+    tools:context="apt.tianhao.idelivery.Login">
+
+    <TextView
+        android:paddingTop="@dimen/activity_vertical_margin"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text1"
+        android:text="Sign in IDelivery with Google+"
+        android:textStyle="bold"
+        android:textColor="#ff0000"
+        android:textSize="32sp"
+        android:textIsSelectable="false"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:gravity="center|bottom"
+        android:orientation="vertical" >
+
+
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="400px"
+        android:layout_height="100px"
+        android:textSize="40sp"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="15dp"
+
+        />
+
+    </LinearLayout>
+
+
+</LinearLayout>

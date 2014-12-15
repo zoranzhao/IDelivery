@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="apt.tianhao.idelivery.Get_task">
+
+    <TextView
+        android:text="Start address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        />
+    <EditText
+        android:id="@+id/get_start"
+        android:layout_width="fill_parent"
+        android:layout_height="200px"
+        android:inputType="textPostalAddress|textCapWords|textNoSuggestions" />
+    <TextView
+        android:text="Destination address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        />
+    <EditText
+        android:id="@+id/get_dest"
+        android:layout_width="fill_parent"
+        android:layout_height="200px"
+        android:inputType="textPostalAddress|textCapWords|textNoSuggestions" />
+    <Button
+        android:layout_width="450px"
+        android:layout_height="wrap_content"
+        android:id="@+id/find"
+        android:text="Find tasks"
+        style="@style/btnStyleOrange"
+        android:layout_gravity="center"
+
+        />
+
+</LinearLayout>

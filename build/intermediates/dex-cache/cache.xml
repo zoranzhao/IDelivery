@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-9a5ca9f55bd90d81177544250f2a69ec97be1027.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-9a5ca9f55bd90d81177544250f2a69ec97be1027.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/gson-2.2.4-2fbc4576908e9632228d980849776d86997f5742.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/classes-db3202b3032fa314b4bd8b952a459fce1b781b0e.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-c44c6c0072f43e3ea76ed02658cbfb251d3accbc.jar"
+        jar="/Users/zrzhao/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/classes-9e809b26a812a3ca501cc2ce11bd268c61b24088.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/classes-9e809b26a812a3ca501cc2ce11bd268c61b24088.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-e965d389783da2df475e2993528f7a5e9b48af52.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-e965d389783da2df475e2993528f7a5e9b48af52.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/classes-62d46e95e3ae96672e7da2af2058aea74e676918.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/classes-62d46e95e3ae96672e7da2af2058aea74e676918.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/gson-2.2.4-f25dbbf8ee3883318f50224c6f3791b4fa546e66.jar"
+        jar="/Users/zrzhao/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/pre-dexed/debug/classes-db3202b3032fa314b4bd8b952a459fce1b781b0e.jar"
+        jar="/Users/zrzhao/Desktop/APT/IDelivery/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256"/>
+
+</pre-dex-items>
